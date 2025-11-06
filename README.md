@@ -100,9 +100,10 @@ A fun and interactive web game for two players — clean UI and smart game logic
 
 ## 📈 GitHub Stats
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=krishnamurarisharma&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnamurarisharma&theme=tokyonight" height="150"/>
 </p>
 
 ---
@@ -110,7 +111,7 @@ A fun and interactive web game for two players — clean UI and smart game logic
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=tokyonight&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=krishnamurarisharma&theme=tokyonight&margin-w=10&margin-h=10" />
 </p>
 
 ---
