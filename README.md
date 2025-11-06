@@ -65,6 +65,9 @@ A fun and interactive web game for two players — clean UI and smart game logic
 <a href="https://www.linkedin.com/in/krishna-sharma-1ab501342" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40"/>
 </a>
+<a href="https://leetcode.com/u/krishnamurarisharma/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40"/>
+</a>
 
 </p>
 
