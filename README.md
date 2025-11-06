@@ -62,14 +62,8 @@ A fun and interactive web game for two players — clean UI and smart game logic
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/krishna-sharma-1ab501342" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <a href="mailto:YOUR-EMAIL@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Gmail" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/YOUR-USERNAME" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="40" height="40"/>
   </a>
 </p>
 
