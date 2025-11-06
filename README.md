@@ -62,7 +62,7 @@ A fun and interactive web game for two players — clean UI and smart game logic
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/krishna-sharma-1ab501342" target="_blank">
+  <a href="https://www.linkedin.com/in/krishna-sharma-1ab501342" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:iamkrishna.sharma12@gmail.com">
