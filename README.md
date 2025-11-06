@@ -61,17 +61,18 @@ A fun and interactive web game for two players — clean UI and smart game logic
 
 ## 🌐 Connect with Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/krishna-sharma-1ab501342" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+<p align="left">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="iamkrishna.sharma12@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:YOUR-EMAIL@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" alt="Gmail" width="40" height="40"/>
   </a>
-  <a href="https://github.com/krishna-sharma12" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/YOUR-USERNAME" target="_blank">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" alt="GitHub" width="40" height="40"/>
   </a>
 </p>
+
 
 > 💬 **Let’s connect!** Reach out for collaborations, internships, or open-source contributions.
 
