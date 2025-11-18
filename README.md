@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I love turning ideas into real-world projects thro
 
 A complete platform for managing vehicle records, service tracking, and maintenance schedules.
 **Tech Stack:** HTML, CSS, PHP, MySQL
-🔗 [View Repository](https://github.com/YOUR-USERNAME/Vehicle-Management-System)
+🔗 [View Repository](https://github.com/krishna-sharma12/Vehicle-Management-System)
 
 ---
 
@@ -29,7 +29,7 @@ A complete platform for managing vehicle records, service tracking, and maintena
 
 A modern, responsive website for a café — includes menu, orders, and online booking features.
 **Tech Stack:** HTML, CSS, JavaScript
-🔗 [View Repository](https://github.com/YOUR-USERNAME/Coffee-Shop-Website)
+🔗 [View Repository](https://github.com/krishna-sharma12/Coffee-Shop-Website)
 
 ---
 
@@ -37,7 +37,7 @@ A modern, responsive website for a café — includes menu, orders, and online b
 
 A real-time currency conversion tool using public exchange rate APIs.
 **Tech Stack:** JavaScript, API, HTML, CSS
-🔗 [View Repository](https://github.com/YOUR-USERNAME/Currency-Converter)
+🔗 [View Repository](https://github.com/krishna-sharma12/Currency-Converter)
 
 ---
 
@@ -45,7 +45,7 @@ A real-time currency conversion tool using public exchange rate APIs.
 
 A fun and interactive web game for two players — clean UI and smart game logic.
 **Tech Stack:** HTML, CSS, JavaScript
-🔗 [View Repository](https://github.com/YOUR-USERNAME/Tic-Tac-Toe)
+🔗 [View Repository](https://github.com/krishna-sharma12/Tic-Tac-Toe)
 
 ---
 
