@@ -29,7 +29,7 @@ A complete platform for managing vehicle records, service tracking, and maintena
 
 A modern, responsive website for a café — includes menu, orders, and online booking features.
 **Tech Stack:** HTML, CSS, JavaScript
-🔗 [View Repository](https://github.com/krishna-sharma12/Coffee-Shop-Website)
+🔗 [View Repository](https://github.com/krishna-sharma12/coffee-shop)
 
 ---
 
