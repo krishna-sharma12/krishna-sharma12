@@ -31,15 +31,11 @@ A modern, responsive website for a café — includes menu, orders, and online b
 **Tech Stack:** HTML, CSS, JavaScript
 🔗 [View Repository](https://github.com/krishna-sharma12/coffee-shop)
 
----
 
-### 💱 Currency Converter
 
-###A real-time currency conversion tool using public exchange rate APIs.
-###**Tech Stack:** JavaScript, API, HTML, CSS
-###🔗 [View Repository](https://github.com/krishna-sharma12/Currency-Converter)
 
----
+
+
 
 ### 🎮 Tic Tac Toe
 
